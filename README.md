@@ -4,8 +4,9 @@ This Spring Boot application provides a RESTful API for managing a list of tasks
 
 ## Postman Collection
 
-To test the API endpoints, import the provided Postman collection: [CypsoLab Task application.postman_collection.json](path/to/your/postman_collection.json).
-This includes requests for creating, retrieving, updating, and deleting tasks. It can be imported directly into Postman for testing  API endpoints.
+To test the API endpoints, import the provided Postman collection in the Repositry (CypsoLab Task application postman_collection.json).
+This includes requests for creating, retrieving, updating, and deleting tasks. It can be imported directly into Postman for testing API endpoints.
+
 ## API Endpoints
 
 ### Create a new task
